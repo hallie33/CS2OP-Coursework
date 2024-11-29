@@ -1,0 +1,76 @@
+Coursework #1: Demonstration Mark Form
+Print this out, fill in your assessment in the Mark column and then the Total column BEFORE the demonstration and then demonstrate your program and explain your code to the marker
+Your Student Number	32006330	MARK :89
+
+	Student’s own assessment	Mark	Total	Marker’s View	Mark awarded
+1.	Overall – tick which applies
+	Crashes
+	Displays arena only
+	Displays arena and Robots only
+	Displays and animates Robots 	
+0
+3
+6
+10		10	0-10
+2.	Class Robot
+	Constructor
+	Suitable data including identifier
+	Robot moves suitably
+	I understand and can explain it	
+3/3
+5/5
+3/3
+2/4		15	0-15
+3.	Class RobotArena
+	Uses  arraylist of Robots
+	Suitable configuration methods
+	Methods for moving
+	I understand and can explain it	
+3/3
+3/3
+5/5
+2/4		15	0-15
+4	Class ConsoleCanvas
+	Has suitable data and border
+	Displays console
+	I understand and can explain it	
+4/4
+3/3
+3/3		10	0-10
+5.	Enum Direction
+	Has basic functionality
+	Has random functionality	
+5/5
+5/5		10	0-10
+5.	Class RobotInterface
+	Suitable menu
+	Lists information about Robots
+	Animates and displays Robots
+	I understand and can explain it	
+3/3
+2/2
+2/2
+2/3		10	0-10
+6	On New and File
+	New works 
+	Save works
+	Load works
+	I understand and can explain it	
+3/3
+3/4
+0/4
+1/4		7	0-15
+6.	My Code
+	has good structure
+	uses access modifiers
+	uses suitable short functions
+	has good comments
+	has good layout	
+3/3
+2/3
+3/3
+2/3
+3/3		12	0-15
+Signed and dated (student):    Hallie Siu  25/11/24           
+
+Signed (marker): Richard
